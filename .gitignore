@@ -1,0 +1,8 @@
+# 真实密钥与生成物，不要提交
+config.env
+*.local.env
+.env
+outputs/
+__pycache__/
+*.pyc
+.venv/
